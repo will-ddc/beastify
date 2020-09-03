@@ -1,0 +1,16 @@
+html,
+body {
+  width: 100px;
+}
+
+button {
+  margin: 3% auto;
+  padding: 5px;
+  width: 80%;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
