@@ -11,6 +11,26 @@ button {
   cursor: pointer;
 }
 
+.beast {
+  background-color: #ccf0f0;
+  transition: background-color 350ms ease;
+}
+
+.beast:hover,
+.beast:focus {
+  background-color: #a7ebeb;
+}
+
+.reset {
+  background-color: #fabd87;
+  transition: background-color 350ms ease;
+}
+
+.reset:hover,
+.reset:focus {
+  background-color: #f2ad6f;
+}
+
 .hidden {
   display: none;
 }
